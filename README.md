@@ -4,6 +4,10 @@
 > Generate your own repository, update this README and edit all files content while working on projects. You should not be adding any new files unless asked otherwise.
 
 
+## Screenshot
+![image](https://user-images.githubusercontent.com/60612329/147051061-b92355dd-3d5f-412d-a91a-1e8b65b77ca0.png)
+
+
 ## Getting Started
 
 This repository includes files with plain SQL that can be used to recreate a database:

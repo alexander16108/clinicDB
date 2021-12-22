@@ -1,10 +1,3 @@
---checking if tables exist and deleting them
-DROP TABLE IF EXISTS patients;
-DROP TABLE IF EXISTS treatments;
-DROP TABLE IF EXISTS medical_histories;
-DROP TABLE IF EXISTS invoice_items;
-DROP TABLE IF EXISTS invoices;
-
 -- creating the basic tables for Schema 
 CREATE TABLE patients(
   id SERIAL NOT NULL PRIMARY KEY,
